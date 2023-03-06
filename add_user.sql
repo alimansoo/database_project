@@ -1,0 +1,1 @@
+INSERT INTO `user`(`first_name`, `last_name`, `email`, `user_name`, `password`, `is_active`) VALUES ('mohamad','mohamadi','mohama.mhm.987@gmail.com','mhmdi96','dDAs6_934','active')
