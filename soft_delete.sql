@@ -1,0 +1,1 @@
+UPDATE `user` SET `is_active`='deactive' WHERE `id`=1
